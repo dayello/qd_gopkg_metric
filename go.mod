@@ -1,4 +1,4 @@
-module git.qufenqi.com/universe/crm/gopkg/metric
+module github.com/dayello/qd_gopkg_metric
 
 go 1.13
 
